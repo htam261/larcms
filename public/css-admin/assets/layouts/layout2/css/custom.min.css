@@ -1,0 +1,7 @@
+.table td, .table th{
+    text-align: center;
+}
+.title-cate{
+    text-align: left !important;
+    padding-left: 30px !important;
+}
