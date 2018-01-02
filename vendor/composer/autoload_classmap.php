@@ -3281,6 +3281,7 @@ return array(
     'Symfony\\Component\\Yaml\\Yaml' => $vendorDir . '/symfony/yaml/Yaml.php',
     'Symfony\\Polyfill\\Mbstring\\Mbstring' => $vendorDir . '/symfony/polyfill-mbstring/Mbstring.php',
     'TableBannerGroup' => $baseDir . '/database/migrations/2018_01_02_021856_table__banner_group.php',
+    'TableInsertBannerGroup' => $baseDir . '/database/migrations/2018_01_02_094011_table_insert__banner_group.php',
     'Tests\\CreatesApplication' => $baseDir . '/tests/CreatesApplication.php',
     'Tests\\Feature\\ExampleTest' => $baseDir . '/tests/Feature/ExampleTest.php',
     'Tests\\TestCase' => $baseDir . '/tests/TestCase.php',

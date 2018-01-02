@@ -3574,6 +3574,7 @@ class ComposerStaticInit0d1f3485cdc2353b5f43606ffdc69e31
         'Symfony\\Component\\Yaml\\Yaml' => __DIR__ . '/..' . '/symfony/yaml/Yaml.php',
         'Symfony\\Polyfill\\Mbstring\\Mbstring' => __DIR__ . '/..' . '/symfony/polyfill-mbstring/Mbstring.php',
         'TableBannerGroup' => __DIR__ . '/../..' . '/database/migrations/2018_01_02_021856_table__banner_group.php',
+        'TableInsertBannerGroup' => __DIR__ . '/../..' . '/database/migrations/2018_01_02_094011_table_insert__banner_group.php',
         'Tests\\CreatesApplication' => __DIR__ . '/../..' . '/tests/CreatesApplication.php',
         'Tests\\Feature\\ExampleTest' => __DIR__ . '/../..' . '/tests/Feature/ExampleTest.php',
         'Tests\\TestCase' => __DIR__ . '/../..' . '/tests/TestCase.php',
