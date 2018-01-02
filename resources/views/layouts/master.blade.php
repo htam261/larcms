@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="google-site-verification" content="M_R5H4ViXWzl5517WhYrKn4rTPnp73TPFUPri4keMT8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
     <meta property="fb:app_id" content="512913062232266" />
     <title>Thẩm Mỹ Quốc Tế VIP</title>
 
@@ -223,7 +223,5 @@
         </div>
     </div>
 </div>
-
 </body>
-
 </html>
